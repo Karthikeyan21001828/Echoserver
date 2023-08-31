@@ -53,8 +53,7 @@ print(f"Received {data!r}")
 ![image](https://github.com/Karthikeyan21001828/Echoserver/assets/93427303/c9b4a1db-3208-4f6f-a3ba-acadeb6ba4a4)
 
 ### CLIENT SIDE
-![Uploading image.png…]()
-
+![image](https://github.com/Karthikeyan21001828/Echoserver/assets/93427303/0130c428-3546-434e-a6b6-0ee5c4010d0a)
 
 ## RESULT:
 The program is executed successfully
